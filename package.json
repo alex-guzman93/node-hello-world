@@ -1,0 +1,12 @@
+{
+  "name": "node-hello-world",
+  "version": "1.0.0",
+  "description": "prima applicazione node back end",
+  "license": "ISC",
+  "author": "Classe151",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
